@@ -21,12 +21,12 @@ I am a software and web developer focused on building functional, well-structure
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OnlyByte1&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyByte1&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="180px" />
-</p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
